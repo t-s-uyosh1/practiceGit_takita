@@ -1,1 +1,1 @@
-# practiceGit_takita
+# GitHub練習
